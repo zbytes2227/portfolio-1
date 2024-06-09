@@ -134,7 +134,7 @@ export const projectsData = [
 		title: 'Nanomaterial Synthesis for Application',
 		url: 'phoenix-digital-agency',
 		category: 'Mobile Application',
-		img: '/images/mobile-project-2.jpg',
+		img: '/images/temp-project.jpg',
 		ProjectHeader: {
 			title: 'Phoenix Digital Agency',
 			publishDate: 'Jul 26, 2021',
@@ -154,7 +154,7 @@ export const projectsData = [
 			{
 				id: uuidv4(),
 				title: 'Phoenix Digital Agency',
-				img: '/images/mobile-project-2.jpg',
+				img: '/images/temp-project.jpg',
 			},
 		],
 		ProjectInfo: {
